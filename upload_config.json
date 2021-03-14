@@ -1,0 +1,20 @@
+{
+  "ONE":{
+    "PAGE_URL":"https://meesho.com/kurta-sets-women/pl/2i0ma?page=",
+    "CATEGORY_A":"women",
+    "CATEGORY_B":"women_ethnic",
+    "CATEGORY_C":"kurta_sets",
+    "MAX_PRODUCTS":300,
+    "STARTING_PAGE":1
+  },
+  "TWO":{
+    "PAGE_URL":"https://meesho.com/women-suits-dress-materials/pl/yvqy7?page=",
+    "CATEGORY_A":"women",
+    "CATEGORY_B":"women_ethnic",
+    "CATEGORY_C":"suits_dress",
+    "MAX_PRODUCTS":200
+  }
+}
+
+
+

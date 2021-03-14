@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "awshop-39dff",
+  "private_key_id": "4ded98ab8513e11f8a2796f2f2f757dc86f954ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEYFBta7XV/auP\n7w7BfiQX4QmPBTYZ8OTQSOGy7ahXZ1fivXm8N7ktaYlAJh3shYGpoGkR4dJlOhkR\njmMoxknhUJDg0pS+Xy9dwo/b7o9HHSWEvT1nGF3TFAWj9QwxRLyhHRxNenLxGKaq\nnXzAuLRS96XuXzHAjC7pZFL+/NmLpv3HstX7JW6LXra7W18FDcHQSyVWndJQTh4U\nHtNn+I+Q4IQfI0mqPQ8Cm6u1CQv7aimgmcNEBtzouJgPMgQi+fj6rs2fWXug6SUp\nwGNBdkTB6k617nmew9zPPcJtoDfhw/NUNIUyQxpnKk5rbdeh8SYsPH9BJO6/2Zri\n/jp+PVZjAgMBAAECggEAF737S1dn6yDZwrOo6YzqKTbsdG2xXk6JI4OEQiFIppSY\nhBHba32jNlHZpbdWC9gSVqNNwLs4OEPfbwdzhqT+nq6ibYQYNrIEZIYW5YTArtzf\nwd4tU88W3OPBUNLaMAS695Gw788boXmVAPC8egJ6zsMhPSImPjzUmSQngquoU6Fc\n+74yGo1ASGU8mSv6oZnbHHn4whn8KM/OvvYxK07xEMkdA7K1hAHzKq+bT6dnblk3\nq/vSqvQZJo1Yg3LZGiUawQ32Ipe8PgpYG3VvgCDkSnPkyj0PmhUzppOmUxAj1KSg\nhKyET06MjtDvkpR0Xg/cUUFjUL93iLuyME7oKKl9DQKBgQD2qvo09N9et1YJ2vCE\nHjHKaPzv2GqNEGVCbiAPAvRcQTW/S3nnYPLZvCBwx4xD4IBC3ml9lbjZjd/YyUGs\nHNphbs1rON431T80xBvj5Zuzt2345xOvibHuVUlJFuzPZk5fg/ylhAZ3+Yu1Ke8E\n6yqHTiBbf47A5k3WRRHxlxTIDQKBgQDLzkDMz7FAi6D+/ifBeNkA19nfe/JrAlyz\nLDmIbd2QIKK219akUZxMrcOmmuH0U/NJV8NWcLccW22oMfGu2r3xATg1ZGbZ1FYD\nA2wF05xC6CKjP5G6U7k0ICBaTI6UUP2TpF+2EodFxT3aY+MtKY/s5/lChq2kdzTL\ne36lOTwMLwKBgFCUQBJGoCWP3KJxjDqMppVJwL8VQpF8dqfB0+UzgOIWR1mLbXJB\ngHPSegJ9nXua/itZ/roQzAb9ys9Fx5dTAZ/sk1xggm9Y0UIKglXrbvbBiEJUMmEY\nqTCDWeJvg8Ko2BdpxYHIZFiTA6mV3kgMDqOOyRE61UZ8tZa2j4sNYLONAoGAMNRr\n5iZk24gYvL98GvivVWpiAw+ZV1Yri6ou5qccDKolEhXIkXoULrL7S3GUbYunoIzs\nektrM9ob/c5pj3FNTO7z3qb9lXcwXGx3dzXqHIWttttGORRSLVD9L2VkS9jTyIn7\nfI4X5vmJBkgkZ++rUiGKMQw/kkYVWiNuhnueDXUCgYEAnBPlRMTMPu2t8u4ez4ij\nFLBi0FtwL66Y97pXtGlW1E9lA5zDflpq/xgNbfeXowS9wR3GMs8IkMXhoGoylMEB\nK4Zmp/arvE6fLRJXGIasNS/vkh8qJqZ1vSLch3tfCs6EbVYmo3Aoi1nPXlkDJUGX\nR155z3NhbvJVjphxtBVy3KM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "baraut-img-corner@awshop-39dff.iam.gserviceaccount.com",
+  "client_id": "100792167947022191476",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/baraut-img-corner%40awshop-39dff.iam.gserviceaccount.com"
+}
